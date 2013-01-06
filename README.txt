@@ -1,0 +1,1 @@
+This software is designed to send Raw HID reports.
